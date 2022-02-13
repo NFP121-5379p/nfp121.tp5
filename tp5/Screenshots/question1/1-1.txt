@@ -1,0 +1,1 @@
+La méthode addAll de la super-classe déclenche l'ajout de tous les éléments de la collection passée en paramètre.
